@@ -281,7 +281,6 @@ namespace MyBox.Internal
 
 		#endregion
 
-
 		#region Find Relative Property
 
 		public static SerializedProperty FindRelativeProperty(SerializedProperty property, string propertyName)
