@@ -115,7 +115,6 @@ namespace MyBox
 	/// </summary>
 	public enum Colors
 	{
-		// ReSharper disable InconsistentNaming
 		aqua,
 		black,
 		blue,
@@ -138,6 +137,5 @@ namespace MyBox
 		white,
 
 		yellow
-		// ReSharper restore InconsistentNaming
 	}
 }

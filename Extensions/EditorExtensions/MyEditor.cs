@@ -13,7 +13,7 @@ using System.Linq;
 namespace MyBox.EditorTools
 {
 	public static class MyEditor
-	{
+	{	
 		#region Hierarchy Management
 
 		/// <summary>
